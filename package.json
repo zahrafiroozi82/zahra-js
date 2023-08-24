@@ -1,0 +1,28 @@
+{
+  "name": "js-08",
+  "version": "1.0.0",
+  "description": "start js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zahrafiroozi82/zahra-js.git"
+  },
+  "keywords": [
+    "js-08"
+  ],
+  "author": "zahra firoozi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zahrafiroozi82/zahra-js/issues"
+  },
+  "homepage": "https://github.com/zahrafiroozi82/zahra-js#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  },
+  "dependencies": {
+    "flowbite": "^1.8.1"
+  }
+}
